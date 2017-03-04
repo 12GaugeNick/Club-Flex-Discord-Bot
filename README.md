@@ -1,2 +1,2 @@
 # Club-Flex-Discord-Bot
-A simple to mess with.
+A simple bot to mess with.
